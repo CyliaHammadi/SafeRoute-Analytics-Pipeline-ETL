@@ -1,0 +1,7 @@
+fact_notice_key,notice_business_id,date_key,buyer_key,market_type_key,notice_count,response_delay_days,has_deadline_flag,batch_id,url_avis,objet_court,full_date,year,month,day,month_label,buyer_name,market_type_code
+1,15-31501,20150303,3,3,1,48,True,B20150308_01_initial,https://www.boamp.fr/pages/avis/?q=idweb:15-31501,concession d'aménagement pour la réalisation de la ZAC de Château-Gaillard,2015-03-03,2015,3,3,2015-03,Cté Cnes Moyenne Vilaine et Semnon,TRAVAUX
+2,15-40000,20150304,6,3,1,14,True,B20150308_01_initial,https://www.boamp.fr/pages/avis/?q=idweb:15-40000,maintenance de bâtiments scolaires et travaux courants,2015-03-04,2015,3,4,2015-03,Ville de Rennes,TRAVAUX
+3,15-40001,20150305,5,1,1,20,True,B20150308_01_initial,https://www.boamp.fr/pages/avis/?q=idweb:15-40001,fourniture de matériel informatique pour les services municipaux,2015-03-05,2015,3,5,2015-03,Ville de Nantes,FOURNITURES
+4,15-40002,20150306,2,2,1,14,True,B20150308_01_initial,https://www.boamp.fr/pages/avis/?q=idweb:15-40002,prestations de nettoyage des locaux administratifs,2015-03-06,2015,3,6,2015-03,Conseil départemental de Loire-Atlantique,SERVICES
+5,15-40003,20150307,4,3,1,23,True,B20150309_01_incremental,https://www.boamp.fr/pages/avis/?q=idweb:15-40003,travaux d'aménagement de voirie et signalisation,2015-03-07,2015,3,7,2015-03,Métropole de Lyon,TRAVAUX
+6,15-40004,20150308,1,2,1,14,True,B20150309_01_incremental,https://www.boamp.fr/pages/avis/?q=idweb:15-40004,services d'assistance juridique en urbanisme,2015-03-08,2015,3,8,2015-03,Communauté urbaine de Bordeaux,SERVICES

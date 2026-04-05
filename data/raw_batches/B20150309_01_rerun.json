@@ -1,0 +1,107 @@
+{
+  "batch_id": "B20150309_01_rerun",
+  "batch_type": "RERUN",
+  "extraction_ts": "2015-03-09T06:00:00Z",
+  "source_system": "BOAMP_API",
+  "records": [
+    {
+      "idweb": "15-40003",
+      "id": "15_40003",
+      "objet": "travaux d'aménagement de voirie et signalisation",
+      "famille": "BOAMP",
+      "code_departement": [
+        "69"
+      ],
+      "code_departement_prestation": "69",
+      "famille_libelle": "Marchés européens",
+      "dateparution": "2015-03-07",
+      "datefindiffusion": "2015-03-27",
+      "datelimitereponse": "2015-03-30T15:00:00+00:00",
+      "nomacheteur": "Métropole de Lyon",
+      "procedure_libelle": "Procédure NC",
+      "nature": "APPEL_OFFRE",
+      "nature_libelle": "Avis de marché",
+      "descripteur_code": [
+        "33",
+        "274"
+      ],
+      "descripteur_libelle": [
+        "Bâtiment",
+        "Prestations de services"
+      ],
+      "type_marche": [
+        "TRAVAUX"
+      ],
+      "source_schema": "Boamp_v230.xsd",
+      "gestion": "{\"REFERENCE\": {\"IDWEB\": \"15-40003\"}, \"INDEXATION\": {\"DATE_PUBLICATION\": \"2015-03-07\", \"DATE_LIMITE_REPONSE\": \"2015-03-30T15:00:00+00:00\", \"DEP_PUBLICATION\": \"69\", \"DEP_PRESTATION\": \"69\", \"RESUME_OBJET\": \"travaux d'aménagement de voirie et signalisation\"}}",
+      "donnees": "{\"IDENTITE\": {\"DENOMINATION\": \"Métropole de Lyon\", \"ADRESSE\": \"Adresse exemple\", \"CP\": \"00000\", \"VILLE\": \"Ville exemple\", \"MEL\": \"contact@example.org\"}, \"OBJET\": {\"TITRE_MARCHE\": \"travaux d'aménagement de voirie et signalisation\", \"TYPE_MARCHE\": {\"TRAVAUX\": {\"EXECUTION\": \"\"}}, \"CPV\": [{\"PRINCIPAL\": \"45233140\"}, {\"SECONDAIRE\": \"34992200\"}]}}",
+      "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:15-40003"
+    },
+    {
+      "idweb": "15-40004",
+      "id": "15_40004",
+      "objet": "services d'assistance juridique en urbanisme",
+      "famille": "BOAMP",
+      "code_departement": [
+        "33"
+      ],
+      "code_departement_prestation": "33",
+      "famille_libelle": "Marchés européens",
+      "dateparution": "2015-03-08",
+      "datefindiffusion": "2015-03-28",
+      "datelimitereponse": "2015-03-22T09:00:00+00:00",
+      "nomacheteur": "Communauté urbaine de Bordeaux",
+      "procedure_libelle": "Procédure NC",
+      "nature": "APPEL_OFFRE",
+      "nature_libelle": "Avis de marché",
+      "descripteur_code": [
+        "33",
+        "274"
+      ],
+      "descripteur_libelle": [
+        "Bâtiment",
+        "Prestations de services"
+      ],
+      "type_marche": [
+        "SERVICES"
+      ],
+      "source_schema": "Boamp_v230.xsd",
+      "gestion": "{\"REFERENCE\": {\"IDWEB\": \"15-40004\"}, \"INDEXATION\": {\"DATE_PUBLICATION\": \"2015-03-08\", \"DATE_LIMITE_REPONSE\": \"2015-03-22T09:00:00+00:00\", \"DEP_PUBLICATION\": \"33\", \"DEP_PRESTATION\": \"33\", \"RESUME_OBJET\": \"services d'assistance juridique en urbanisme\"}}",
+      "donnees": "{\"IDENTITE\": {\"DENOMINATION\": \"Communauté urbaine de Bordeaux\", \"ADRESSE\": \"Adresse exemple\", \"CP\": \"00000\", \"VILLE\": \"Ville exemple\", \"MEL\": \"contact@example.org\"}, \"OBJET\": {\"TITRE_MARCHE\": \"services d'assistance juridique en urbanisme\", \"TYPE_MARCHE\": {\"SERVICES\": {\"EXECUTION\": \"\"}}, \"CPV\": [{\"PRINCIPAL\": \"79111000\"}]}}",
+      "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:15-40004"
+    },
+    {
+      "idweb": "15-40005",
+      "id": "15_40005",
+      "objet": "prestation invalide sans acheteur",
+      "famille": "BOAMP",
+      "code_departement": [
+        "75"
+      ],
+      "code_departement_prestation": "75",
+      "famille_libelle": "Marchés européens",
+      "dateparution": "2015-03-08",
+      "datefindiffusion": "2015-03-28",
+      "datelimitereponse": "2015-03-01T09:00:00+00:00",
+      "nomacheteur": "",
+      "procedure_libelle": "Procédure NC",
+      "nature": "APPEL_OFFRE",
+      "nature_libelle": "Avis de marché",
+      "descripteur_code": [
+        "33",
+        "274"
+      ],
+      "descripteur_libelle": [
+        "Bâtiment",
+        "Prestations de services"
+      ],
+      "type_marche": [
+        "SERVICES"
+      ],
+      "source_schema": "Boamp_v230.xsd",
+      "gestion": "{\"REFERENCE\": {\"IDWEB\": \"15-40005\"}, \"INDEXATION\": {\"DATE_PUBLICATION\": \"2015-03-08\", \"DATE_LIMITE_REPONSE\": \"2015-03-01T09:00:00+00:00\", \"DEP_PUBLICATION\": \"75\", \"DEP_PRESTATION\": \"75\", \"RESUME_OBJET\": \"prestation invalide sans acheteur\"}}",
+      "donnees": "{\"IDENTITE\": {\"DENOMINATION\": \"\", \"ADRESSE\": \"Adresse exemple\", \"CP\": \"00000\", \"VILLE\": \"Ville exemple\", \"MEL\": \"contact@example.org\"}, \"OBJET\": {\"TITRE_MARCHE\": \"prestation invalide sans acheteur\", \"TYPE_MARCHE\": {\"SERVICES\": {\"EXECUTION\": \"\"}}, \"CPV\": [{\"PRINCIPAL\": \"79111000\"}]}}",
+      "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:15-40005"
+    }
+  ]
+}
