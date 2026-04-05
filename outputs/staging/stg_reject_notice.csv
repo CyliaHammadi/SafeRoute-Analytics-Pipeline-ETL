@@ -1,3 +1,0 @@
-batch_id,idweb,reject_rule,reject_reason,raw_payload_hash
-B20150309_01_incremental,15-40005,R05 deadline avant publication,Ligne mise en quarantaine,298ad4fe740d8c713217c28544e7999d81c69f50ff18b6f2f4dc9acd8102e259
-B20150309_01_rerun,15-40005,R05 deadline avant publication,Ligne mise en quarantaine,298ad4fe740d8c713217c28544e7999d81c69f50ff18b6f2f4dc9acd8102e259

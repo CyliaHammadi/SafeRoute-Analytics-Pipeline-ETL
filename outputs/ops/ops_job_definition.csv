@@ -1,6 +1,0 @@
-job_name,layer,schedule,depends_on,sla_target
-collect_boamp_batch,collect,05:30 daily,,05:35
-stage_boamp_notice,staging,05:35 daily,collect_boamp_batch,05:40
-transform_notice_kpi,transform,05:40 daily,stage_boamp_notice,05:45
-load_notice_dwh,dwh,05:45 daily,transform_notice_kpi,05:50
-refresh_kpi_tables,bi,05:50 daily,load_notice_dwh,05:55
