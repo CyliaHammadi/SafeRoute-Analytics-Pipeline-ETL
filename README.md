@@ -23,4 +23,4 @@ COLLECTE → STAGING → CONTRÔLE QUALITÉ → TRANSFORMATION → DATAWAREHOUSE
                     répartition des risques, desserte transport, accidentalité horaire, météo)
 
 # Stack technique
-Python · pandas · numpy · sqlite3 · matplotlib · hashlib · logging
+Python · pandas · numpy · sqlite3 · matplotlib · hashlib 
