@@ -22,5 +22,8 @@ COLLECTE → STAGING → CONTRÔLE QUALITÉ → TRANSFORMATION → DATAWAREHOUSE
 6. Dashboard      – Visualisation matplotlib : 4 KPI + 5 graphiques (top communes,
                     répartition des risques, desserte transport, accidentalité horaire, météo)
 
+   <img width="545" height="443" alt="image" src="https://github.com/user-attachments/assets/dd8e897e-c7d3-4cbd-a9de-61820b1a6ece" />
+
+
 # Stack technique
 Python · pandas · numpy · sqlite3 · matplotlib · hashlib 
